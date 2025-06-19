@@ -12,7 +12,7 @@ However, it's beneficial to be familiar with all the available options.<br>
 
 ## Installation
 
-- Visit the following link : https://wa.cloudlinkd.com/integration/shopify (https://wa.cloudlinkd.com/integration/shopify/)
+- Visit the following link : https://wa.cloudlinkd.com/integration/shopify
 - Enjoy!
 
 -------------
