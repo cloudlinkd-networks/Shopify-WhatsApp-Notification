@@ -12,35 +12,8 @@ However, it's beneficial to be familiar with all the available options.<br>
 
 ## Installation
 
-- Add miniOrange ~ SMS Notifications ( https://apps.shopify.com/order-sms-notifications )
-- Purchase the "Custom Gateway" plan
-- Open Gateway Configuration
+- Visit the following link : https://wa.cloudlinkd.com/integration/shopify (https://wa.cloudlinkd.com/integration/shopify/)
+- Enjoy!
 
----
-
- Gateway Request Type: Gateway URL</br>
- Gateway URL Method: GET or POST</br>
- SMS Gateway URL: https://wa.cloudlinkd.com/send-message?api_key=your-cloudlinkd-api-key&sender=your-phone-number-without-country-code-+&number=##phone##&message=##message##</br></br>
-
----
-
- Gateway Request Type: POST Gateway</br>
- SMS Gateway URL: https://wa.cloudlinkd.com/send-message
- </br>
- 
- Parameters:
- - number: ##phone##</br>
- - message: ##message##</br>
- - api_key: your-cloudlinkd-api-key</br>
- - sender: your-phone-number-without-country-code-+</br></br>
-
- ---
- 
-- Open Custom Messages</br>
-- Enter Phone Number with country code +</br>
-- Enter your message</br>
-- Click 'Send'</br>
-
-## Credits
-
+-------------
 All credits to the [Team CloudLinkd](https://www.cloudlinkd.com) and the original creators of these files.</br>
